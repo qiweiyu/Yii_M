@@ -1,4 +1,5 @@
 <?php
+//modified by QWY
 class M
 {
 	protected $_command = null;
